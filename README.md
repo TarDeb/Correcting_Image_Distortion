@@ -11,6 +11,13 @@ In digital image processing, correcting image distortion is crucial for accurate
 - Ensure you have Python installed along with required libraries: OpenCV and NumPy.
 - Replace the input and output folder paths with your folder paths.
 - Run the script: `python image_processing.py`
+# Original Photo
+![image](https://github.com/TarDeb/Correcting_Image_Distortion/assets/105755292/94b17e05-2088-4dd1-ad95-0356cebc033f)
+
+# Corrected Image
+![image](https://github.com/TarDeb/Correcting_Image_Distortion/assets/105755292/72d87eee-cafb-466d-921d-cfbfff2d53b9)
+
+
 
 ## Script Overview
 
